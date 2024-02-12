@@ -25,7 +25,7 @@ To use the Website Blocker, follow these steps:
 This will toggle the blocking status of the websites. If they were previously unblocked, they will be blocked, and if they were blocked, they will be unblocked.  
   
 *On macOS/Linux:* Open the terminal, navigate to the project directory, and run:  
-`sudo python3 website_blocker.py`  
+`sudo python3 stop_wasting_time.py`  
 Similar to Windows, this command toggles the blocking status of the websites defined in the script.  
 Ensure to run the script with the necessary privileges (administrator or root) to allow changes to the hosts file.
 
